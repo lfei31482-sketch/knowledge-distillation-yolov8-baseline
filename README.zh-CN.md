@@ -22,7 +22,7 @@ yolo detect train model=ultralytics/cfg/models/v8/yolov8m.yaml data=/path/to/dat
 
 ## 相关仓库
 
-- 改进方法（MoE 蒸馏、Dense Gate）：[knowledge-distillation-yolov8-improve](https://github.com/lfei31482-sketch/knowledge-distillation-yolov8-improve)
+- 改进方法（MGD 蒸馏）：[knowledge-distillation-yolov8-improve](https://github.com/lfei31482-sketch/knowledge-distillation-yolov8-improve)
 
 ## 来源
 

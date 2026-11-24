@@ -22,7 +22,7 @@ See [BASELINE.md](BASELINE.md) for the full baseline definition and provenance, 
 
 ## Related repo
 
-- Improvements (MoE distillation, Dense Gate): [knowledge-distillation-yolov8-improve](https://github.com/lfei31482-sketch/knowledge-distillation-yolov8-improve)
+- Improvement (MGD distillation): [knowledge-distillation-yolov8-improve](https://github.com/lfei31482-sketch/knowledge-distillation-yolov8-improve)
 
 ## Provenance
 
